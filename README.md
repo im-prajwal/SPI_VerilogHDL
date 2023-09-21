@@ -1,4 +1,4 @@
-# SPI_VerilogHDL
+# SPI Implementation using Verilog HDL
 
 Description:
 
